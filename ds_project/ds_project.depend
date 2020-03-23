@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1584445608 source:c:\users\sukumar ganesan\desktop\new folder (3)\big oh\ds_project\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
